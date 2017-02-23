@@ -8,14 +8,23 @@ field | content
 --- | ---
 traditional character | 隸
 simplified character | 隶
+stroke-order | image
 traditional unicode | 38584
 simplified unicode | 38582
-frequency group | (2)
+[frequency group](http://hanzidb.org/character-list/by-frequency) | (2) †
 [radical-stroke cnt](http://hanzidb.org/radicals) | 171隶17
-yale+sound link | [dai6](dai6.mp3)
-pin yin | li4
+yale+sound link | [dai6](dai6.mp3),
+pin yin | li4;
 definition | be subservient to; servant
 
+† cost common characters grouped by 1000
 
+The "example sentences also consists of a few items:
 
+field | content
+--- | ---
+characters | 奴隶
+yale+sound link | nou4 dai6, 
+pin yin | nu2 li4; 
+definition | slave
 
