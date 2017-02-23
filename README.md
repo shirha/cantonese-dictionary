@@ -24,7 +24,7 @@ The "example sentences also consists of a few items:
 field | content
 --- | ---
 characters | 奴隶
-yale+sound link | nou4 dai6, 
+yale+sound link | [nou4 dai6](), 
 pin yin | nu2 li4; 
 definition | slave
 
