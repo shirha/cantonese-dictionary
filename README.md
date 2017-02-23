@@ -4,9 +4,9 @@ This is a Cantonese Dictionary using Yale romanization. You navigate the page by
 
 The "word" entry consists of several items:
 
-| field | content |
-| --- | --- |
-| traditional character | 隸 |
+field | content
+--- | ---
+traditional character | 隸
 
 | simplified character | 隶 |
 | traditional unicode | 38584 |
