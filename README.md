@@ -16,7 +16,7 @@ simplified unicode | 38582
 [frequency group](http://hanzidb.org/character-list/by-frequency) | (2) †
 [radical-stroke cnt](http://hanzidb.org/radicals) | 171隶17
 yale+sound link | [dai6](),
-pin yin | li4;
+pinyin | li4;
 definition | be subservient to; servant
 
 † cost common characters grouped by 1000
@@ -27,6 +27,6 @@ field | content
 --- | ---
 characters | 奴隶
 yale+sound link | [nou4 dai6](), 
-pin yin | nu2 li4; 
+pinyin | nu2 li4; 
 definition | slave
 
