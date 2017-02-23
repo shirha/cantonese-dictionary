@@ -7,15 +7,14 @@ The "word" entry consists of several items:
 field | content
 --- | ---
 traditional character | 隸
-
-| simplified character | 隶 |
-| traditional unicode | 38584 |
-| simplified unicode | 38582 |
-| frequency group | (2) |
-| radical-stroke cnt | 171隶17 |
-| yale+sound link | dai6 |
-| pin yin | li4 |
-| definition | be subservient to; servant |
+simplified character | 隶
+traditional unicode | 38584
+simplified unicode | 38582
+frequency group | (2)
+radical-stroke cnt | 171隶17
+yale+sound link | dai6
+pin yin | li4
+definition | be subservient to; servant
 
 
 
