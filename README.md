@@ -12,7 +12,7 @@ traditional unicode | 38584
 simplified unicode | 38582
 frequency group | (2)
 radical-stroke cnt | 171隶17
-yale+sound link | dai6
+yale+sound link | [dai6](dai6.mp3)
 pin yin | li4
 definition | be subservient to; servant
 
