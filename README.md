@@ -19,7 +19,7 @@ yale+sound link | [dai6](),
 pinyin | li4;
 definition | be subservient to; servant
 
-† cost common characters grouped by 1000
+† most common characters grouped by 1000, the frequency filter in the top left allows you filter out more uncommon sentences by lowering the frequency groups allowed to display.
 
 The "example sentences also consists of a few items:
 
