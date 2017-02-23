@@ -8,7 +8,7 @@ field | content
 --- | ---
 traditional character | 隸
 simplified character | 隶
-stroke-order | image
+stroke-order | [image](c1a5.jpg)
 traditional unicode | 38584
 simplified unicode | 38582
 [frequency group](http://hanzidb.org/character-list/by-frequency) | (2) †
